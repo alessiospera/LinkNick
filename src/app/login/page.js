@@ -1,4 +1,4 @@
-import LoginWithCompany from "@/components/buttons/loginWithCompany";
+import LoginWithCompany from "@/components/buttons/LoginWithCompany";
 
 export default function LoginPage(){
     return (
